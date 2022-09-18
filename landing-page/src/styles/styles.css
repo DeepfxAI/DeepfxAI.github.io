@@ -82,7 +82,7 @@ p {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #021C1E !important;
+  background-color: #102A49 !important;
 }
 
 #hero .container {
@@ -119,11 +119,12 @@ p {
 }
 
 .teal.lighten-1{
-  background-color: #004445 !important;
+  background: linear-gradient(to right, #ebdcb2 50%, #c9a66b 100%);
+  background-color: #ebdcb2;
 }
 
 .features-color {
-  background-color: #C4DFE6;
+  background-color: #FCF2FE;
 }
 
 #examplar {
